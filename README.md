@@ -20,7 +20,7 @@ The website basically works in a way that you can search you Github account and 
 Write the name you want to search on the bar and click enter.Searching the Github account you get to see the github profile and the you can explore more to see the github account.
 At the landing page you can also see the number of followers you have and the people you are following.
 ## Project's Live Link
-* https://akinyiowuor.github.io/Github-Search/
+https://akinyiowuor.github.io/Github-Search/
 ## Contact Information
 * Email: owuorrachel@gmail.com
 ## Licence $ copyright Information
